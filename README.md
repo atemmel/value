@@ -51,7 +51,7 @@ func main() {
 	for key, value := range table {
 		fmt.Printf("The key %s holds the value(s): ", key)
 		show(value)
-			fmt.Println()
+		fmt.Println()
 	}
 
 }
