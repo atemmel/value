@@ -85,6 +85,7 @@ go get github.com/atemmel/value
 
 * Light scripting implementations
 * Generic data manipulation
+* Scenarios where a runtime defined type is neccessary
 
 ## Todo
 
